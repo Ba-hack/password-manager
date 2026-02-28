@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.pyc
+
+# Vaults / backups (ne jamais push)
+.vault*.json
+backup*.json
+*.vault.json
+*.my_pass.json
+my_pass.json
+.my_pass.json
