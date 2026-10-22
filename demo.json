@@ -1,0 +1,14 @@
+{
+  "ciphertext": "xUBlCOZ/80+hBBv6JQbtk4tEe7C96kmcyG2XiRG1L8V5z2zASDxg469ThXjm",
+  "kdf": {
+    "hash_len": 32,
+    "memory_cost_kib": 65536,
+    "parallelism": 2,
+    "salt_len": 16,
+    "time_cost": 3,
+    "type": "argon2id"
+  },
+  "nonce": "4lx6cT04i4QCYn+0",
+  "salt": "C8NcXlzPSkrT7ymBXSGmeg==",
+  "version": 1
+}

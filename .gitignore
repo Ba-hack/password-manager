@@ -9,3 +9,6 @@ backup*.json
 *.my_pass.json
 my_pass.json
 .my_pass.json
+
+my_count.json
+

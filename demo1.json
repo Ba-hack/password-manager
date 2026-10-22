@@ -1,0 +1,14 @@
+{
+  "ciphertext": "cFqDLRCvcO889mj+UmKimyG5ClBa+zgItIYCujSER0KOIQkCSvC4VV6DLFXfu3FjkxlgPaX+00h6wi+qPJiYvDy68SteyBd2/QbnihU4Ad4d2h3gpPUih3vbcsedXi6s5CJJ5ynRDmDDSrTK/hDYS7fupoB+jNmz8mXhgwX5QwQz+RnbTpvRL5TBBBQIoGR0q6WUq0HmRb8wU8nmeSHqME7hLs74/BizK+yVpSKSHOw6T3XwPEch2A3yn1P56gyCDBHfknFMw7Xcx+ZNYEzHasT6HGAjE+IX/30exQEGaz1HtiZsb6vHWDHMLO4BcOB2PsCqS1tBtcGCezYLi+RyurjB1QjZmzXxOtbEIAm4SYWMN/78eaxQQQlaRRmVcXpk2WzA1mYw+EKoMma3No0TIqhEb4nv+aO4qOZLfr18MeXiJkVN32le6asZ0OpZBGCmfYnHQH5XTGXRiQK7WOo/RyLV/Lu7wvrl3GSIzz3S/xacXIwzqHK1sfzdQGETKEb3a18d5KxV/D4B96NFkY0l41bV7ysUmduGZ2HNaFmbc6wcngskq1/E1WEzxh/e0A+frXXVsa7PfIPSxy8dUbjOSXtaGaYuWTStOF6wSR8I7H1+3HUGeVSMNq8wewqnqa9yqrs9/JZkFlk2zlueV7FJgTuwwdvj+N7eaxMsk1P5p56zJxcaRvLdwGP9GoqyfEDh6Z9jzoSbuQ5zMS0nifa3+R9p6jyrUJxMeA99pg6A7GmqzH6Kf+KTzWZ8/uhXT115NnDg9Eazqz4hhHleYNzLLT3glIXU2o0nrgnlCDHI39Ymy+W+1rGfyUnuy1Neeh27HYcMx46gsRWfU2lTFEn7ZHXF9uYyOmpBpZUiqTjF3++l+xcjZpYYx667+gjtvTN+v/v1n9itxWapJMl/3us8",
+  "kdf": {
+    "hash_len": 32,
+    "memory_cost_kib": 65536,
+    "parallelism": 2,
+    "salt_len": 16,
+    "time_cost": 3,
+    "type": "argon2id"
+  },
+  "nonce": "LHItkzvW4d+NDfJF",
+  "salt": "pwjAMJvWwWHzyAnQixH/KA==",
+  "version": 1
+}
